@@ -427,7 +427,8 @@ browser to gain access to your `submitData` function in console.
 **Note**: The tests in this lab need access to the `fetch()` request inside
 `submitData`. In order to give them access, write your solution so that
 `submitData` _returns_ the `fetch()`. This will not change the behavior of
-your `fetch()`.
+your 
+`fetch()`.
 
 ### Test 1 - Send Data
 
